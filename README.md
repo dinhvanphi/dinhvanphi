@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I'm Dinh Van Phi!
 
-<!--
-**dinhvanphi/dinhvanphi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a 4th-year student studying and working in Da Nang
+- I have knowledge and can work with Dart/Flutter to develop cross-platform applications
+- Currently, I am learning iOS application development (native) to keep up with the increasingly rapid pace of technological development
 
-Here are some ideas to get you started:
+##  Skills & Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mobile
+![Swift](https://img.shields.io/badge/Swift-orange?logo=swift)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?logo=swift)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart)
+
+#### Backend/Database
+- NodeJS (basic)
+- PostgreSQL (basic)
+
+#####  Contact with me
+
+-  Email: dinhvanphi01478965@gmail.com  
+-  Facebook: https://www.facebook.com/inhvanphi.575533/
+
+
+
